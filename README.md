@@ -15,4 +15,4 @@ Proyek ini dibuat tanpa alasan yang jelas, hanya dorongan perasaan terhadap sese
 ## 🚀 Cara Menjalankan
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/username/word-love-code.git
+   git clone https://github.com/varnythh/word-love-code.git
